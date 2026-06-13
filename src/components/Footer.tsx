@@ -66,6 +66,20 @@ export default function Footer() {
 
               <div>
                 <h3 className="text-sm font-sans tracking-wider text-charcoal-900 uppercase mb-4">
+                  Download
+                </h3>
+                <a
+                  href="https://github.com/baotouxiaolongxia-byte/jada-han/releases/download/original-v1/original-images.zip"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block px-4 py-2 text-sm bg-accent-gold text-white rounded hover:bg-accent-brown transition-colors duration-200"
+                >
+                  Download Original Images
+                </a>
+              </div>
+
+              <div>
+                <h3 className="text-sm font-sans tracking-wider text-charcoal-900 uppercase mb-4">
                   Contact
                 </h3>
                 <p className="text-sm text-charcoal-700 leading-relaxed">
