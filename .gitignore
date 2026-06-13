@@ -18,6 +18,3 @@ yarn-error.log*
 
 # Vercel
 .vercel/
-
-# Images (use cloud storage for images)
-public/images/
